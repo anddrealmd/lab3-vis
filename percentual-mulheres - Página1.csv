@@ -1,0 +1,28 @@
+uf,estado,regiao,percentmulheres
+AC,Acre,Norte,52.98
+AP,Amapá,Norte,50.65
+AM,Amazonas,Norte,53.18
+PA,Pará,Norte,53.83
+RO,Rondônia,Norte,53.54
+RR,Roraima,Norte,52.48
+TO,Tocantins,Norte,52.07
+AL,Alagoas,Nordeste,53.29
+BA,Bahia,Nordeste,57.14
+CE,Ceará,Nordeste,52.2
+MA,Maranhão,Nordeste,52.67
+PB,Paraíba,Nordeste,55.2
+PE,Pernambuco,Nordeste,53.56
+PI,Piauí,Nordeste,54.33
+RN,Rio Grande do Norte,Nordeste,50.12
+SE,Sergipe,Nordeste,53.41
+ES,Espírito Santo,Sudeste,49.93
+MG,Minas Gerais,Sudeste,52.77
+RJ,Rio de Janeiro,Sudeste,51.73
+SP,São Paulo,Sudeste,51.31
+PR,Paraná,Sul,55.35
+RS,Rio Grande do Sul,Sul,58.36
+SC,Santa Catarina,Sul,53.16
+DF,Distrito Federal,Centro-Oeste,47.97
+GO,Goiás,Centro-Oeste,56.53
+MT,Mato Grosso,Centro-Oeste,56.15
+MS,Mato Grosso do Sul,Centro-Oeste,57.94
